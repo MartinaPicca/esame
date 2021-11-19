@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ConfigServer
+  profiles:
+    include: github2
+
+server:
+  port: 8082
+

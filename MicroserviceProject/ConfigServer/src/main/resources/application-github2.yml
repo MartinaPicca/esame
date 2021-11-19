@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/MartinaPicca/micro.git
+          username: MartinaPicca
+          password: Martina.2000
